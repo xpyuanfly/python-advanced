@@ -35,5 +35,5 @@ class Solution(object):
 "bbbbb"
 "abcabcbb"
 """
-print(Solution().lengthOfLongestSubstring("bbbbb"))
+# print(Solution().lengthOfLongestSubstring("bbbbb"))
 print(Solution().lengthOfLongestSubstring("abcabcbb"))
