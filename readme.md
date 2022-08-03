@@ -1,5 +1,5 @@
 # 第一周 迭代器
- 迭代器 iterator：iter(),next()
+迭代器 iterator：iter(),next()
 生成器 [ x for x in iteratable]
 递归recursive: define cur 和 next的关系，define break final point
 map,reduce,filter: 
@@ -21,5 +21,5 @@ heap堆结构的定义和用法，大根堆、小根堆
 基本用法 wordcount
 2 妙用补数查两数之和
 3 查表在不在里面基本用法
-36 数独，难度在如何切割
+36 数独，难度在如何切割（郭源方法的j、i互换很妙）
 49 （1）排序的元组作为key，消除字串有序的干扰（都整平），（2）list的扩展方式：extend，或者[] + [] 
